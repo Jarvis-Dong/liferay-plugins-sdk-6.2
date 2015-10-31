@@ -4,10 +4,10 @@
 	<info
 		organisation="com.liferay"
 		module="sample-service-portlet"
-		revision="working@JasondeMBP"
+		revision="working@JasondeMacBook-Pro.local"
 		conf="provided"
 		confs="default, internal, provided, runtime, test"
-		date="20151031081409"/>
+		date="20151031124321"/>
 	<dependencies>
 	</dependencies>
 </ivy-report>
